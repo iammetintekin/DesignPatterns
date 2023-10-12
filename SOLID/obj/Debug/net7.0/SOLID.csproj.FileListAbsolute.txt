@@ -12,3 +12,17 @@ C:\Users\metot\source\repos\DesingPatterns\SOLID\obj\Debug\net7.0\refint\SOLID.d
 C:\Users\metot\source\repos\DesingPatterns\SOLID\obj\Debug\net7.0\SOLID.pdb
 C:\Users\metot\source\repos\DesingPatterns\SOLID\obj\Debug\net7.0\SOLID.genruntimeconfig.cache
 C:\Users\metot\source\repos\DesingPatterns\SOLID\obj\Debug\net7.0\ref\SOLID.dll
+C:\Users\metot\source\repos\DesignPatterns\SOLID\bin\Debug\net7.0\SOLID.exe
+C:\Users\metot\source\repos\DesignPatterns\SOLID\bin\Debug\net7.0\SOLID.deps.json
+C:\Users\metot\source\repos\DesignPatterns\SOLID\bin\Debug\net7.0\SOLID.runtimeconfig.json
+C:\Users\metot\source\repos\DesignPatterns\SOLID\bin\Debug\net7.0\SOLID.dll
+C:\Users\metot\source\repos\DesignPatterns\SOLID\bin\Debug\net7.0\SOLID.pdb
+C:\Users\metot\source\repos\DesignPatterns\SOLID\obj\Debug\net7.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\DesignPatterns\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfo.cs
+C:\Users\metot\source\repos\DesignPatterns\SOLID\obj\Debug\net7.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\SOLID\obj\Debug\net7.0\SOLID.dll
+C:\Users\metot\source\repos\DesignPatterns\SOLID\obj\Debug\net7.0\refint\SOLID.dll
+C:\Users\metot\source\repos\DesignPatterns\SOLID\obj\Debug\net7.0\SOLID.pdb
+C:\Users\metot\source\repos\DesignPatterns\SOLID\obj\Debug\net7.0\SOLID.genruntimeconfig.cache
+C:\Users\metot\source\repos\DesignPatterns\SOLID\obj\Debug\net7.0\ref\SOLID.dll

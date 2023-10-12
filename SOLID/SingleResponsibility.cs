@@ -12,7 +12,7 @@ namespace SOLID
     internal class SingleResponsibility
     {
         internal void Run()
-        {
+        { 
             Journal journal = new Journal();
             Console.WriteLine(journal);
             FileOperations fileOperations = new FileOperations();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uNfMAWDhtTdPMZLP99KVwiUQoGDmjKJLU7O9F/84AITNrBuNQ1GKerhz7DZ+pyzxmBLFMCZeKPZgmmgLIn/A+w==",
+  "dgSpecHash": "S78fmkidjVfuIYQTcf2TqZzLiJOfJLlRIMESwp/HQHzob4+4Ed808VqsQ8Ogw7LFNRyB5TnW2Hk03mRn2g24pQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\metot\\source\\repos\\DesingPatterns\\SOLID\\SOLID.csproj",
+  "projectFilePath": "C:\\Users\\metot\\source\\repos\\DesignPatterns\\SOLID\\SOLID.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

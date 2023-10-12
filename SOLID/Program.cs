@@ -2,5 +2,8 @@
 using SOLID;
 
 Console.WriteLine("-- Solid Prensipleri --");
-SingleResponsibility singleResponsibility = new SingleResponsibility();
-singleResponsibility.Run();
+//SingleResponsibility singleResponsibility = new SingleResponsibility();
+//singleResponsibility.Run();
+
+OpenClosed openClosed = new OpenClosed();
+openClosed.Run2();   
