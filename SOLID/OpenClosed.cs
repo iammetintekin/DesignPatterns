@@ -104,6 +104,10 @@ namespace SOLID
                 Console.WriteLine(item);
             }
         }
+
+
+
+
         // Hatalı yöntem
         internal void Run()
         {
