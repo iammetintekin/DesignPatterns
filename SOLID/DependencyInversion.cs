@@ -88,7 +88,7 @@ namespace SOLID
         internal void Run()
         {
             var relationships = new Relationships();
-            new Research(relationships);
+            var a = new Research(relationships);
         }
         // c# tuple değişşkeni de kullanıldı.
     }

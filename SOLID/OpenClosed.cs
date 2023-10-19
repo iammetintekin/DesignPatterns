@@ -12,6 +12,38 @@ namespace SOLID
     /// </summary>
     internal class OpenClosed
     {
+        class Product
+        {
+            public string Name { get; set; }
+            public Color Color { get; set; }
+            public Size Size { get; set; }
+            public Product(string name, Color color, Size size)
+            {
+                if (name == null) throw new ArgumentNullException(nameof(name));
+
+                Name = name;
+                Color = color;
+                Size = size;
+            }
+            public override string ToString()
+            {
+                return $"The {Name} is {Color} and {Size}";
+            }
+        }
+        enum Color
+        {
+            Red,
+            Green,
+            Blue,
+        }
+        enum Size
+        {
+            S,
+            M,
+            L,
+            XL
+        }
+
         // interfacelere başvuruyoruz.
         interface ISpesification<T> 
         {
@@ -135,37 +167,6 @@ namespace SOLID
             foreach (var item in BothFiltering)
             {
                 Console.WriteLine(item);
-            }
-        }
-        enum Color
-        {
-            Red,
-            Green,
-            Blue,
-        }
-        enum Size
-        {
-            S,
-            M,
-            L,
-            XL
-        }
-        class Product
-        {
-            public string Name { get; set; }
-            public Color Color { get; set; }
-            public Size Size { get; set; }
-            public Product(string name, Color color, Size size)
-            {
-                if (name == null) throw new ArgumentNullException(nameof(name));
-
-                Name = name;
-                Color = color;
-                Size = size;
-            }
-            public override string ToString()
-            {
-                return $"The {Name} is {Color} and {Size}";
             }
         }
         // filtreleme classı

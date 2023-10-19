@@ -1,0 +1,14 @@
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\bin\Debug\net7.0\BuilderDesignPattern.exe
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\bin\Debug\net7.0\BuilderDesignPattern.deps.json
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\bin\Debug\net7.0\BuilderDesignPattern.runtimeconfig.json
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\bin\Debug\net7.0\BuilderDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\bin\Debug\net7.0\BuilderDesignPattern.pdb
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\obj\Debug\net7.0\BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\obj\Debug\net7.0\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\obj\Debug\net7.0\BuilderDesignPattern.AssemblyInfo.cs
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\obj\Debug\net7.0\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\obj\Debug\net7.0\BuilderDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\obj\Debug\net7.0\refint\BuilderDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\obj\Debug\net7.0\BuilderDesignPattern.pdb
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\obj\Debug\net7.0\BuilderDesignPattern.genruntimeconfig.cache
+C:\Users\metot\source\repos\DesignPatterns\BuilderDesignPattern\obj\Debug\net7.0\ref\BuilderDesignPattern.dll

@@ -1,0 +1,14 @@
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\bin\Debug\net7.0\Builder.FunctionalDesignPattern.exe
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\bin\Debug\net7.0\Builder.FunctionalDesignPattern.deps.json
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\bin\Debug\net7.0\Builder.FunctionalDesignPattern.runtimeconfig.json
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\bin\Debug\net7.0\Builder.FunctionalDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\bin\Debug\net7.0\Builder.FunctionalDesignPattern.pdb
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\obj\Debug\net7.0\Builder.FunctionalDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\obj\Debug\net7.0\Builder.FunctionalDesignPattern.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\obj\Debug\net7.0\Builder.FunctionalDesignPattern.AssemblyInfo.cs
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\obj\Debug\net7.0\Builder.FunctionalDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\obj\Debug\net7.0\Builder.FunctionalDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\obj\Debug\net7.0\refint\Builder.FunctionalDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\obj\Debug\net7.0\Builder.FunctionalDesignPattern.pdb
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\obj\Debug\net7.0\Builder.FunctionalDesignPattern.genruntimeconfig.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.FunctionalDesignPattern\obj\Debug\net7.0\ref\Builder.FunctionalDesignPattern.dll

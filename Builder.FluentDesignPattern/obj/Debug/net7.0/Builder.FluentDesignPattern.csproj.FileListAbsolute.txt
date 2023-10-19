@@ -1,0 +1,14 @@
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\bin\Debug\net7.0\Builder.FluentDesignPattern.exe
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\bin\Debug\net7.0\Builder.FluentDesignPattern.deps.json
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\bin\Debug\net7.0\Builder.FluentDesignPattern.runtimeconfig.json
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\bin\Debug\net7.0\Builder.FluentDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\bin\Debug\net7.0\Builder.FluentDesignPattern.pdb
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\obj\Debug\net7.0\Builder.FluentDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\obj\Debug\net7.0\Builder.FluentDesignPattern.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\obj\Debug\net7.0\Builder.FluentDesignPattern.AssemblyInfo.cs
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\obj\Debug\net7.0\Builder.FluentDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\obj\Debug\net7.0\Builder.FluentDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\obj\Debug\net7.0\refint\Builder.FluentDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\obj\Debug\net7.0\Builder.FluentDesignPattern.pdb
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\obj\Debug\net7.0\Builder.FluentDesignPattern.genruntimeconfig.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.FluentDesignPattern\obj\Debug\net7.0\ref\Builder.FluentDesignPattern.dll
