@@ -1,0 +1,14 @@
+C:\Users\metot\source\repos\DesignPatterns\PointExample\bin\Debug\net7.0\Factories.FactoryMethod.exe
+C:\Users\metot\source\repos\DesignPatterns\PointExample\bin\Debug\net7.0\Factories.FactoryMethod.deps.json
+C:\Users\metot\source\repos\DesignPatterns\PointExample\bin\Debug\net7.0\Factories.FactoryMethod.runtimeconfig.json
+C:\Users\metot\source\repos\DesignPatterns\PointExample\bin\Debug\net7.0\Factories.FactoryMethod.dll
+C:\Users\metot\source\repos\DesignPatterns\PointExample\bin\Debug\net7.0\Factories.FactoryMethod.pdb
+C:\Users\metot\source\repos\DesignPatterns\PointExample\obj\Debug\net7.0\Factories.FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\DesignPatterns\PointExample\obj\Debug\net7.0\Factories.FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\PointExample\obj\Debug\net7.0\Factories.FactoryMethod.AssemblyInfo.cs
+C:\Users\metot\source\repos\DesignPatterns\PointExample\obj\Debug\net7.0\Factories.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\PointExample\obj\Debug\net7.0\Factories.FactoryMethod.dll
+C:\Users\metot\source\repos\DesignPatterns\PointExample\obj\Debug\net7.0\refint\Factories.FactoryMethod.dll
+C:\Users\metot\source\repos\DesignPatterns\PointExample\obj\Debug\net7.0\Factories.FactoryMethod.pdb
+C:\Users\metot\source\repos\DesignPatterns\PointExample\obj\Debug\net7.0\Factories.FactoryMethod.genruntimeconfig.cache
+C:\Users\metot\source\repos\DesignPatterns\PointExample\obj\Debug\net7.0\ref\Factories.FactoryMethod.dll

@@ -1,0 +1,14 @@
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\obj\Debug\net7.0\Factories.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\obj\Debug\net7.0\Factories.AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\obj\Debug\net7.0\Factories.AbstractFactory.AssemblyInfo.cs
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\obj\Debug\net7.0\Factories.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\bin\Debug\net7.0\Factories.AbstractFactory.exe
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\bin\Debug\net7.0\Factories.AbstractFactory.deps.json
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\bin\Debug\net7.0\Factories.AbstractFactory.runtimeconfig.json
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\bin\Debug\net7.0\Factories.AbstractFactory.dll
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\bin\Debug\net7.0\Factories.AbstractFactory.pdb
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\obj\Debug\net7.0\Factories.AbstractFactory.dll
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\obj\Debug\net7.0\refint\Factories.AbstractFactory.dll
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\obj\Debug\net7.0\Factories.AbstractFactory.pdb
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\obj\Debug\net7.0\Factories.AbstractFactory.genruntimeconfig.cache
+C:\Users\metot\source\repos\DesignPatterns\Factories.AbstractFactory\obj\Debug\net7.0\ref\Factories.AbstractFactory.dll

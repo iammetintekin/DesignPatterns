@@ -1,0 +1,14 @@
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\bin\Debug\net7.0\Builder.StepwiseDesignPattern.exe
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\bin\Debug\net7.0\Builder.StepwiseDesignPattern.deps.json
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\bin\Debug\net7.0\Builder.StepwiseDesignPattern.runtimeconfig.json
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\bin\Debug\net7.0\Builder.StepwiseDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\bin\Debug\net7.0\Builder.StepwiseDesignPattern.pdb
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\obj\Debug\net7.0\Builder.StepwiseDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\obj\Debug\net7.0\Builder.StepwiseDesignPattern.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\obj\Debug\net7.0\Builder.StepwiseDesignPattern.AssemblyInfo.cs
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\obj\Debug\net7.0\Builder.StepwiseDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\obj\Debug\net7.0\Builder.StepwiseDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\obj\Debug\net7.0\refint\Builder.StepwiseDesignPattern.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\obj\Debug\net7.0\Builder.StepwiseDesignPattern.pdb
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\obj\Debug\net7.0\Builder.StepwiseDesignPattern.genruntimeconfig.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.StepwiseDesignPattern\obj\Debug\net7.0\ref\Builder.StepwiseDesignPattern.dll

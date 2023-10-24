@@ -1,0 +1,14 @@
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\bin\Debug\net7.0\Factories.ObjectTracking.exe
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\bin\Debug\net7.0\Factories.ObjectTracking.deps.json
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\bin\Debug\net7.0\Factories.ObjectTracking.runtimeconfig.json
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\bin\Debug\net7.0\Factories.ObjectTracking.dll
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\bin\Debug\net7.0\Factories.ObjectTracking.pdb
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\obj\Debug\net7.0\Factories.ObjectTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\obj\Debug\net7.0\Factories.ObjectTracking.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\obj\Debug\net7.0\Factories.ObjectTracking.AssemblyInfo.cs
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\obj\Debug\net7.0\Factories.ObjectTracking.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\obj\Debug\net7.0\Factories.ObjectTracking.dll
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\obj\Debug\net7.0\refint\Factories.ObjectTracking.dll
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\obj\Debug\net7.0\Factories.ObjectTracking.pdb
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\obj\Debug\net7.0\Factories.ObjectTracking.genruntimeconfig.cache
+C:\Users\metot\source\repos\DesignPatterns\Factories.ObjectTracking\obj\Debug\net7.0\ref\Factories.ObjectTracking.dll

@@ -1,0 +1,14 @@
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\bin\Debug\net7.0\BuilderExample.exe
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\bin\Debug\net7.0\BuilderExample.deps.json
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\bin\Debug\net7.0\BuilderExample.runtimeconfig.json
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\bin\Debug\net7.0\BuilderExample.dll
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\bin\Debug\net7.0\BuilderExample.pdb
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\obj\Debug\net7.0\BuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\obj\Debug\net7.0\BuilderExample.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\obj\Debug\net7.0\BuilderExample.AssemblyInfo.cs
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\obj\Debug\net7.0\BuilderExample.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\obj\Debug\net7.0\BuilderExample.dll
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\obj\Debug\net7.0\refint\BuilderExample.dll
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\obj\Debug\net7.0\BuilderExample.pdb
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\obj\Debug\net7.0\BuilderExample.genruntimeconfig.cache
+C:\Users\metot\source\repos\DesignPatterns\BuilderExample\obj\Debug\net7.0\ref\BuilderExample.dll

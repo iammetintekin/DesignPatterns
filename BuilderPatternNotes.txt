@@ -1,0 +1,3 @@
+Builderlar nesne üretmemizi sağlayan komponentlerdir.
+Constructurlar yardımıyla veya static olarak return edilebilir.
+Fluent olarak kullanılması tavsiye edilir. Aynı anda birden çok builder ile çalışılabilir.

@@ -1,0 +1,14 @@
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\bin\Debug\net7.0\Builder.FacetedBuilder.exe
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\bin\Debug\net7.0\Builder.FacetedBuilder.deps.json
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\bin\Debug\net7.0\Builder.FacetedBuilder.runtimeconfig.json
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\bin\Debug\net7.0\Builder.FacetedBuilder.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\bin\Debug\net7.0\Builder.FacetedBuilder.pdb
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\obj\Debug\net7.0\Builder.FacetedBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\obj\Debug\net7.0\Builder.FacetedBuilder.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\obj\Debug\net7.0\Builder.FacetedBuilder.AssemblyInfo.cs
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\obj\Debug\net7.0\Builder.FacetedBuilder.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\obj\Debug\net7.0\Builder.FacetedBuilder.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\obj\Debug\net7.0\refint\Builder.FacetedBuilder.dll
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\obj\Debug\net7.0\Builder.FacetedBuilder.pdb
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\obj\Debug\net7.0\Builder.FacetedBuilder.genruntimeconfig.cache
+C:\Users\metot\source\repos\DesignPatterns\Builder.FacetedBuilder\obj\Debug\net7.0\ref\Builder.FacetedBuilder.dll
